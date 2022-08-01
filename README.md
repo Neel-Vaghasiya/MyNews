@@ -1,0 +1,2 @@
+# MyNews
+React Application
